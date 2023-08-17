@@ -1,0 +1,1 @@
+const texto = 'Meu primeiro comit';
